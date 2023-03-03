@@ -1,3 +1,4 @@
+## Glossário japonês-português / 日ポ用語集
 ### H
 **hikoku 被告** 【Dir.】O acionado; o demandado; a parte passiva; o réu [do processo cível]; o suplicado. ◇**~nin 被告人** O acusado; o arguido; o indiciado; o réu [do processo criminal].
 
